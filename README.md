@@ -1,0 +1,2 @@
+# sagemaker_fashion_mnist
+SageMaker上で動作するコード
